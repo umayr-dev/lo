@@ -38,7 +38,7 @@ export let  DashboardItem = [
     },
     {
         id: 3,
-        title: '36 Days of Malayalam type',
+        title: '36 Days of Malayalam ',
         subtitle:  'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.',
         year: '2018',
         type: 'Typography',
