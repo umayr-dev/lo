@@ -1,0 +1,47 @@
+.blog{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 80%;
+    height: auto;
+    padding: 20px 0;
+    row-gap: 30px;
+    >h1{
+        font-size: 45px;
+        padding: 10px 0;
+    }
+    &-card{
+        padding:20px 20px  20px 0;
+        width: 800px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        row-gap: 20px;
+        h1{
+            font-size: 22px;
+
+        }
+        .blog-number{
+            display: flex;
+            width: 380px;
+            justify-content: space-between;
+            .blog-p{
+                color: gray;
+            }
+        }
+        &:not(:last-child){
+            border-bottom: 1px solid gray;
+        }
+    }
+}
+
+.blogs{
+    width: 100%;
+    height: auto;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
