@@ -1,4 +1,4 @@
-import dashboard from "./components/dashboard";
+
 
 export let BannerSystemData = [
     {
