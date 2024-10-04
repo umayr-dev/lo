@@ -1,6 +1,5 @@
 import React from 'react'
 import { DashboardItem } from '../data'
-import { Link } from 'react-router-dom'
 
 function Dashboard() {
   return (
