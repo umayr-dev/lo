@@ -9,7 +9,7 @@ function Header (){
             <Link to='/' className="logo">Home</Link>
                 <Link to='/work'>Works</Link>
                 <Link to='/blog'>Blog</Link>
-                <Link to='/contact'>Contact</Link>
+                <Link to='/contact'>Exam</Link>
             </div>
         </div>
     </header>
